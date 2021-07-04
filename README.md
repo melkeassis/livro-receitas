@@ -4,3 +4,4 @@ Seja bem vindo ao livro de receitas!
 
 - Escondidinho de mandioca com carne seca
 - Pavê
+- Bolo de cenoura
